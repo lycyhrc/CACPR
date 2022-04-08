@@ -1,0 +1,1275 @@
+A,B,linkA,linkB,prerequisites,source,domin,language
+connected component,ackermann function,https://en.wikipedia.org/wiki/Connected_component,https://en.wikipedia.org/wiki/Ackermann_function,None,ACL,W-DSA,en
+deterministic algorithm,ackermann function,https://en.wikipedia.org/wiki/Deterministic_algorithm,https://en.wikipedia.org/wiki/Ackermann_function,None,ACL,W-DSA,en
+linear probing,ackermann function,https://en.wikipedia.org/wiki/Linear_probing,https://en.wikipedia.org/wiki/Ackermann_function,None,ACL,W-DSA,en
+merge sort,ackermann function,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Ackermann_function,None,ACL,W-DSA,en
+minimum spanning tree,ackermann function,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Ackermann_function,None,ACL,W-DSA,en
+randomized algorithm,ackermann function,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Ackermann_function,None,ACL,W-DSA,en
+sort algorithm,ackermann function,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Ackermann_function,None,ACL,W-DSA,en
+spanning tree,ackermann function,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Ackermann_function,None,ACL,W-DSA,en
+connected component,acyclic graph,https://en.wikipedia.org/wiki/Connected_component,https://en.wikipedia.org/wiki/Acyclic_graph,A->B,ACL,W-DSA,en
+directed acyclic graph,acyclic graph,https://en.wikipedia.org/wiki/Directed_acyclic_graph,https://en.wikipedia.org/wiki/Acyclic_graph,A->B,ACL,W-DSA,en
+directed graph,acyclic graph,https://en.wikipedia.org/wiki/Directed_graph,https://en.wikipedia.org/wiki/Acyclic_graph,None,ACL,W-DSA,en
+search algorithm,acyclic graph,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Acyclic_graph,None,ACL,W-DSA,en
+search problem,acyclic graph,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Acyclic_graph,None,ACL,W-DSA,en
+shortest path,acyclic graph,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Acyclic_graph,None,ACL,W-DSA,en
+connected component,adjacency matrix,https://en.wikipedia.org/wiki/Connected_component,https://en.wikipedia.org/wiki/Adjacency_matrix,None,ACL,W-DSA,en
+directed graph,adjacency matrix,https://en.wikipedia.org/wiki/Directed_graph,https://en.wikipedia.org/wiki/Adjacency_matrix,None,ACL,W-DSA,en
+bipartite graph,approximation algorithm,https://en.wikipedia.org/wiki/Bipartite_graph,https://en.wikipedia.org/wiki/Approximation_algorithm,None,ACL,W-DSA,en
+directed graph,approximation algorithm,https://en.wikipedia.org/wiki/Directed_graph,https://en.wikipedia.org/wiki/Approximation_algorithm,None,ACL,W-DSA,en
+Dynamic_programming,approximation algorithm,https://en.wikipedia.org/wiki/Dynamic_programming,https://en.wikipedia.org/wiki/Approximation_algorithm,None,ACL,W-DSA,en
+hamiltonian cycle,approximation algorithm,https://en.wikipedia.org/wiki/Hamiltonian_path,https://en.wikipedia.org/wiki/Approximation_algorithm,None,ACL,W-DSA,en
+minimum spanning tree,approximation algorithm,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Approximation_algorithm,None,ACL,W-DSA,en
+search problem,approximation algorithm,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Approximation_algorithm,A->B,ACL,W-DSA,en
+spanning tree,approximation algorithm,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Approximation_algorithm,None,ACL,W-DSA,en
+triangle inequality,approximation algorithm,https://en.wikipedia.org/wiki/Triangle_inequality,https://en.wikipedia.org/wiki/Approximation_algorithm,None,ACL,W-DSA,en
+bubble sort,asymptotic analysis,https://en.wikipedia.org/wiki/Bubble_sort,https://en.wikipedia.org/wiki/Asymptotic_analysis,None,ACL,W-DSA,en
+connected component,asymptotic analysis,https://en.wikipedia.org/wiki/Connected_component,https://en.wikipedia.org/wiki/Asymptotic_analysis,None,ACL,W-DSA,en
+merge sort,asymptotic analysis,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Asymptotic_analysis,None,ACL,W-DSA,en
+selection sort,asymptotic analysis,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Asymptotic_analysis,None,ACL,W-DSA,en
+sort algorithm,asymptotic analysis,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Asymptotic_analysis,None,ACL,W-DSA,en
+binary search,binary code,https://en.wikipedia.org/wiki/Binary_search_algorithm,https://en.wikipedia.org/wiki/Binary_code,None,ACL,W-DSA,en
+binary search tree,binary code,https://en.wikipedia.org/wiki/Binary_search_tree,https://en.wikipedia.org/wiki/Binary_code,A->B,ACL,W-DSA,en
+binary tree,binary code,https://en.wikipedia.org/wiki/Binary_tree,https://en.wikipedia.org/wiki/Binary_code,A->B,ACL,W-DSA,en
+Dynamic_programming,binary code,https://en.wikipedia.org/wiki/Dynamic_programming,https://en.wikipedia.org/wiki/Binary_code,None,ACL,W-DSA,en
+greedy algorithm,binary code,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Binary_code,None,ACL,W-DSA,en
+search tree,binary code,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Binary_code,None,ACL,W-DSA,en
+spanning tree,binary code,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Binary_code,None,ACL,W-DSA,en
+binary search,binary heap,https://en.wikipedia.org/wiki/Binary_search_algorithm,https://en.wikipedia.org/wiki/Binary_heap,A->B,ACL,W-DSA,en
+binary tree,binary heap,https://en.wikipedia.org/wiki/Binary_tree,https://en.wikipedia.org/wiki/Binary_heap,A->B,ACL,W-DSA,en
+connected component,binary heap,https://en.wikipedia.org/wiki/Connected_component,https://en.wikipedia.org/wiki/Binary_heap,None,ACL,W-DSA,en
+doubly linked list,binary heap,https://en.wikipedia.org/wiki/Doubly_linked_list,https://en.wikipedia.org/wiki/Binary_heap,A->B,ACL,W-DSA,en
+greedy algorithm,binary heap,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Binary_heap,None,ACL,W-DSA,en
+linked list,binary heap,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Binary_heap,A->B,ACL,W-DSA,en
+minimum spanning tree,binary heap,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Binary_heap,None,ACL,W-DSA,en
+priority queue,binary heap,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Binary_heap,A->B,ACL,W-DSA,en
+selection sort,binary heap,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Binary_heap,None,ACL,W-DSA,en
+shortest path,binary heap,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Binary_heap,None,ACL,W-DSA,en
+sort algorithm,binary heap,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Binary_heap,None,ACL,W-DSA,en
+spanning tree,binary heap,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Binary_heap,None,ACL,W-DSA,en
+binary search tree,binary search,https://en.wikipedia.org/wiki/Binary_search_tree,https://en.wikipedia.org/wiki/Binary_search_algorithm,A->B,ACL,W-DSA,en
+binary tree,binary search,https://en.wikipedia.org/wiki/Binary_tree,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+doubly linked list,binary search,https://en.wikipedia.org/wiki/Doubly_linked_list,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+Dynamic_programming,binary search,https://en.wikipedia.org/wiki/Dynamic_programming,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+greedy algorithm,binary search,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+linear probing,binary search,https://en.wikipedia.org/wiki/Linear_probing,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+linear search,binary search,https://en.wikipedia.org/wiki/Linear_search,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+linked list,binary search,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+merge sort,binary search,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+minimum spanning tree,binary search,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+nearest neighbor,binary search,https://en.wikipedia.org/wiki/Nearest_neighbor,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+priority queue,binary search,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+randomized algorithm,binary search,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+search algorithm,binary search,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Binary_search_algorithm,A->B,ACL,W-DSA,en
+search problem,binary search,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+search tree,binary search,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+select algorithm,binary search,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+selection sort,binary search,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+shortest path,binary search,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+sort algorithm,binary search,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+spanning tree,binary search,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+sweep line algorithm,binary search,https://en.wikipedia.org/wiki/Sweep_line_algorithm,https://en.wikipedia.org/wiki/Binary_search_algorithm,None,ACL,W-DSA,en
+binary tree,binary search tree,https://en.wikipedia.org/wiki/Binary_tree,https://en.wikipedia.org/wiki/Binary_search_tree,A->B,ACL,W-DSA,en
+doubly linked list,binary search tree,https://en.wikipedia.org/wiki/Doubly_linked_list,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+Dynamic_programming,binary search tree,https://en.wikipedia.org/wiki/Dynamic_programming,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+greedy algorithm,binary search tree,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+linear probing,binary search tree,https://en.wikipedia.org/wiki/Linear_probing,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+linked list,binary search tree,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+merge sort,binary search tree,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+minimum spanning tree,binary search tree,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+nearest neighbor,binary search tree,https://en.wikipedia.org/wiki/Nearest_neighbor,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+priority queue,binary search tree,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+randomized algorithm,binary search tree,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+search problem,binary search tree,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+search tree,binary search tree,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Binary_search_tree,A->B,ACL,W-DSA,en
+select algorithm,binary search tree,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+selection sort,binary search tree,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+shortest path,binary search tree,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+sort algorithm,binary search tree,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+spanning tree,binary search tree,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+sweep line algorithm,binary search tree,https://en.wikipedia.org/wiki/Sweep_line_algorithm,https://en.wikipedia.org/wiki/Binary_search_tree,None,ACL,W-DSA,en
+directed graph,binary tree,https://en.wikipedia.org/wiki/Directed_graph,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+Dynamic_programming,binary tree,https://en.wikipedia.org/wiki/Dynamic_programming,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+greedy algorithm,binary tree,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+knockout tournament,binary tree,https://en.wikipedia.org/wiki/Single-elimination_tournament,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+linear search,binary tree,https://en.wikipedia.org/wiki/Linear_search,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+linked list,binary tree,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+merge sort,binary tree,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+minimum spanning tree,binary tree,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+nearest neighbor,binary tree,https://en.wikipedia.org/wiki/Nearest_neighbor,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+priority queue,binary tree,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+search problem,binary tree,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+search tree,binary tree,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Binary_tree,A->B,ACL,W-DSA,en
+selection sort,binary tree,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+shortest path,binary tree,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+shortest path problem,binary tree,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+sort algorithm,binary tree,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+spanning tree,binary tree,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+sweep line algorithm,binary tree,https://en.wikipedia.org/wiki/Sweep_line_algorithm,https://en.wikipedia.org/wiki/Binary_tree,None,ACL,W-DSA,en
+directed graph,bipartite graph,https://en.wikipedia.org/wiki/Directed_graph,https://en.wikipedia.org/wiki/Bipartite_graph,A->B,ACL,W-DSA,en
+greedy algorithm,bubble sort,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Bubble_sort,None,ACL,W-DSA,en
+merge sort,bubble sort,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Bubble_sort,None,ACL,W-DSA,en
+selection sort,bubble sort,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Bubble_sort,None,ACL,W-DSA,en
+sort algorithm,bubble sort,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Bubble_sort,A->B,ACL,W-DSA,en
+deterministic algorithm,bucket sort,https://en.wikipedia.org/wiki/Deterministic_algorithm,https://en.wikipedia.org/wiki/Bucket_sort,A->B,ACL,W-DSA,en
+randomized algorithm,bucket sort,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Bucket_sort,None,ACL,W-DSA,en
+sort algorithm,bucket sort,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Bucket_sort,A->B,ACL,W-DSA,en
+deterministic algorithm,connected component,https://en.wikipedia.org/wiki/Deterministic_algorithm,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+directed acyclic graph,connected component,https://en.wikipedia.org/wiki/Directed_acyclic_graph,https://en.wikipedia.org/wiki/Connected_component,A->B,ACL,W-DSA,en
+directed graph,connected component,https://en.wikipedia.org/wiki/Directed_graph,https://en.wikipedia.org/wiki/Connected_component,A->B,ACL,W-DSA,en
+doubly linked list,connected component,https://en.wikipedia.org/wiki/Doubly_linked_list,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+greedy algorithm,connected component,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+linked list,connected component,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+merge sort,connected component,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+minimum spanning tree,connected component,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+priority queue,connected component,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+randomized algorithm,connected component,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+search algorithm,connected component,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+search tree,connected component,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+shortest path,connected component,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+shortest path problem,connected component,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+sort algorithm,connected component,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+spanning tree,connected component,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Connected_component,None,ACL,W-DSA,en
+priority queue,contraction hierarchies,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Contraction_hierarchies,None,ACL,W-DSA,en
+shortest path,contraction hierarchies,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Contraction_hierarchies,A->B,ACL,W-DSA,en
+linear probing,cryptographic hash,https://en.wikipedia.org/wiki/Linear_probing,https://en.wikipedia.org/wiki/Cryptographic_hash_function,None,ACL,W-DSA,en
+linked list,cryptographic hash,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Cryptographic_hash_function,None,ACL,W-DSA,en
+merge sort,cryptographic hash,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Cryptographic_hash_function,None,ACL,W-DSA,en
+sort algorithm,cryptographic hash,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Cryptographic_hash_function,None,ACL,W-DSA,en
+directed graph,de bruijn graph,https://en.wikipedia.org/wiki/Directed_graph,https://en.wikipedia.org/wiki/De_Bruijn_graph,A->B,ACL,W-DSA,en
+eulerian path,de bruijn graph,https://en.wikipedia.org/wiki/Eulerian_path,https://en.wikipedia.org/wiki/De_Bruijn_graph,A->B,ACL,W-DSA,en
+hamiltonian cycle,de bruijn graph,https://en.wikipedia.org/wiki/Hamiltonian_path,https://en.wikipedia.org/wiki/De_Bruijn_graph,A->B,ACL,W-DSA,en
+knockout tournament,deterministic algorithm,https://en.wikipedia.org/wiki/Single-elimination_tournament,https://en.wikipedia.org/wiki/Deterministic_algorithm,None,ACL,W-DSA,en
+merge sort,deterministic algorithm,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Deterministic_algorithm,A->B,ACL,W-DSA,en
+minimum spanning tree,deterministic algorithm,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Deterministic_algorithm,None,ACL,W-DSA,en
+random variable,deterministic algorithm,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Deterministic_algorithm,None,ACL,W-DSA,en
+randomized algorithm,deterministic algorithm,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Deterministic_algorithm,None,ACL,W-DSA,en
+select algorithm,deterministic algorithm,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Deterministic_algorithm,None,ACL,W-DSA,en
+sort algorithm,deterministic algorithm,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Deterministic_algorithm,A->B,ACL,W-DSA,en
+spanning tree,deterministic algorithm,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Deterministic_algorithm,None,ACL,W-DSA,en
+directed graph,directed acyclic graph,https://en.wikipedia.org/wiki/Directed_graph,https://en.wikipedia.org/wiki/Directed_acyclic_graph,A->B,ACL,W-DSA,en
+search algorithm,directed acyclic graph,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Directed_acyclic_graph,None,ACL,W-DSA,en
+search problem,directed acyclic graph,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Directed_acyclic_graph,None,ACL,W-DSA,en
+shortest path,directed acyclic graph,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Directed_acyclic_graph,None,ACL,W-DSA,en
+doubly linked list,directed graph,https://en.wikipedia.org/wiki/Doubly_linked_list,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+Dynamic_programming,directed graph,https://en.wikipedia.org/wiki/Dynamic_programming,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+eulerian path,directed graph,https://en.wikipedia.org/wiki/Eulerian_path,https://en.wikipedia.org/wiki/Directed_graph,A->B,ACL,W-DSA,en
+greedy algorithm,directed graph,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+hamiltonian cycle,directed graph,https://en.wikipedia.org/wiki/Hamiltonian_path,https://en.wikipedia.org/wiki/Directed_graph,A->B,ACL,W-DSA,en
+knockout tournament,directed graph,https://en.wikipedia.org/wiki/Single-elimination_tournament,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+linear search,directed graph,https://en.wikipedia.org/wiki/Linear_search,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+linked list,directed graph,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+minimum spanning tree,directed graph,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+random variable,directed graph,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+randomized algorithm,directed graph,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+search algorithm,directed graph,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+search problem,directed graph,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+search tree,directed graph,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+shortest path,directed graph,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+shortest path problem,directed graph,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+spanning tree,directed graph,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+triangle inequality,directed graph,https://en.wikipedia.org/wiki/Triangle_inequality,https://en.wikipedia.org/wiki/Directed_graph,None,ACL,W-DSA,en
+linked list,doubly linked list,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Doubly_linked_list,A->B,ACL,W-DSA,en
+nearest neighbor,doubly linked list,https://en.wikipedia.org/wiki/Nearest_neighbor,https://en.wikipedia.org/wiki/Doubly_linked_list,None,ACL,W-DSA,en
+priority queue,doubly linked list,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Doubly_linked_list,None,ACL,W-DSA,en
+search algorithm,doubly linked list,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Doubly_linked_list,None,ACL,W-DSA,en
+search problem,doubly linked list,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Doubly_linked_list,None,ACL,W-DSA,en
+search tree,doubly linked list,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Doubly_linked_list,None,ACL,W-DSA,en
+shortest path,doubly linked list,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Doubly_linked_list,None,ACL,W-DSA,en
+greatest common divisor,Dynamic_programming,https://en.wikipedia.org/wiki/Greatest_common_divisor,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+greedy algorithm,Dynamic_programming,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+linear program,Dynamic_programming,https://en.wikipedia.org/wiki/Linear_programming,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+merge sort,Dynamic_programming,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+minimum spanning tree,Dynamic_programming,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+nearest neighbor,Dynamic_programming,https://en.wikipedia.org/wiki/Nearest_neighbor,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+randomized algorithm,Dynamic_programming,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+search algorithm,Dynamic_programming,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+search problem,Dynamic_programming,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+search tree,Dynamic_programming,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+shortest path,Dynamic_programming,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+shortest path problem,Dynamic_programming,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+sort algorithm,Dynamic_programming,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+spanning tree,Dynamic_programming,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Dynamic_programming,None,ACL,W-DSA,en
+greedy algorithm,euclidean distance,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Euclidean_distance,None,ACL,W-DSA,en
+linear search,euclidean distance,https://en.wikipedia.org/wiki/Linear_search,https://en.wikipedia.org/wiki/Euclidean_distance,None,ACL,W-DSA,en
+merge sort,euclidean distance,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Euclidean_distance,None,ACL,W-DSA,en
+minimum spanning tree,euclidean distance,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Euclidean_distance,A->B,ACL,W-DSA,en
+search algorithm,euclidean distance,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Euclidean_distance,None,ACL,W-DSA,en
+shortest path,euclidean distance,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Euclidean_distance,A->B,ACL,W-DSA,en
+sort algorithm,euclidean distance,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Euclidean_distance,None,ACL,W-DSA,en
+spanning tree,euclidean distance,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Euclidean_distance,None,ACL,W-DSA,en
+triangle inequality,euclidean distance,https://en.wikipedia.org/wiki/Triangle_inequality,https://en.wikipedia.org/wiki/Euclidean_distance,None,ACL,W-DSA,en
+hamiltonian cycle,eulerian path,https://en.wikipedia.org/wiki/Hamiltonian_path,https://en.wikipedia.org/wiki/Eulerian_path,None,ACL,W-DSA,en
+shortest path,graham scan,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Graham_scan,None,ACL,W-DSA,en
+sort algorithm,graham scan,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Graham_scan,None,ACL,W-DSA,en
+greedy algorithm,greatest common divisor,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Greatest_common_divisor,None,ACL,W-DSA,en
+merge sort,greedy algorithm,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+minimum spanning tree,greedy algorithm,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+nearest neighbor,greedy algorithm,https://en.wikipedia.org/wiki/Nearest_neighbor,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+priority queue,greedy algorithm,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+randomized algorithm,greedy algorithm,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+search problem,greedy algorithm,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+search tree,greedy algorithm,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+shortest path,greedy algorithm,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+shortest path problem,greedy algorithm,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Greedy_algorithm,A->B,ACL,W-DSA,en
+sort algorithm,greedy algorithm,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+spanning tree,greedy algorithm,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-DSA,en
+minimum spanning tree,hamiltonian cycle,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Hamiltonian_path,None,ACL,W-DSA,en
+search problem,hamiltonian cycle,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Hamiltonian_path,A->B,ACL,W-DSA,en
+spanning tree,hamiltonian cycle,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Hamiltonian_path,None,ACL,W-DSA,en
+triangle inequality,hamiltonian cycle,https://en.wikipedia.org/wiki/Triangle_inequality,https://en.wikipedia.org/wiki/Hamiltonian_path,None,ACL,W-DSA,en
+linear search,knockout tournament,https://en.wikipedia.org/wiki/Linear_search,https://en.wikipedia.org/wiki/Single-elimination_tournament,None,ACL,W-DSA,en
+merge sort,knockout tournament,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Single-elimination_tournament,None,ACL,W-DSA,en
+minimum spanning tree,knockout tournament,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Single-elimination_tournament,None,ACL,W-DSA,en
+randomized algorithm,knockout tournament,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Single-elimination_tournament,None,ACL,W-DSA,en
+select algorithm,knockout tournament,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Single-elimination_tournament,A->B,ACL,W-DSA,en
+shortest path,knockout tournament,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Single-elimination_tournament,None,ACL,W-DSA,en
+shortest path problem,knockout tournament,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Single-elimination_tournament,None,ACL,W-DSA,en
+spanning tree,knockout tournament,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Single-elimination_tournament,None,ACL,W-DSA,en
+linear inequality,linear function,https://en.wikipedia.org/wiki/Linear_inequality,https://en.wikipedia.org/wiki/Linear_function,A->B,ACL,W-DSA,en
+linear program,linear function,https://en.wikipedia.org/wiki/Linear_programming,https://en.wikipedia.org/wiki/Linear_function,A->B,ACL,W-DSA,en
+linear program,linear inequality,https://en.wikipedia.org/wiki/Linear_programming,https://en.wikipedia.org/wiki/Linear_inequality,None,ACL,W-DSA,en
+linear program,linear probing,https://en.wikipedia.org/wiki/Linear_programming,https://en.wikipedia.org/wiki/Linear_probing,None,ACL,W-DSA,en
+linked list,linear probing,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Linear_probing,None,ACL,W-DSA,en
+merge sort,linear probing,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Linear_probing,None,ACL,W-DSA,en
+random variable,linear probing,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Linear_probing,A->B,ACL,W-DSA,en
+search tree,linear probing,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Linear_probing,None,ACL,W-DSA,en
+select algorithm,linear probing,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Linear_probing,None,ACL,W-DSA,en
+sort algorithm,linear probing,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Linear_probing,None,ACL,W-DSA,en
+linked list,linear program,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Linear_programming,None,ACL,W-DSA,en
+random variable,linear program,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Linear_programming,None,ACL,W-DSA,en
+search problem,linear program,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Linear_programming,None,ACL,W-DSA,en
+select algorithm,linear program,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Linear_programming,None,ACL,W-DSA,en
+shortest path,linear program,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Linear_programming,None,ACL,W-DSA,en
+shortest path problem,linear program,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Linear_programming,None,ACL,W-DSA,en
+linked list,linear search,https://en.wikipedia.org/wiki/Linked_list,https://en.wikipedia.org/wiki/Linear_search,None,ACL,W-DSA,en
+merge sort,linear search,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Linear_search,None,ACL,W-DSA,en
+search algorithm,linear search,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Linear_search,A->B,ACL,W-DSA,en
+shortest path,linear search,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Linear_search,None,ACL,W-DSA,en
+shortest path problem,linear search,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Linear_search,None,ACL,W-DSA,en
+sort algorithm,linear search,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Linear_search,None,ACL,W-DSA,en
+random variable,linked list,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Linked_list,None,ACL,W-DSA,en
+merge sort,linked list,https://en.wikipedia.org/wiki/Merge_sort,https://en.wikipedia.org/wiki/Linked_list,None,ACL,W-DSA,en
+nearest neighbor,linked list,https://en.wikipedia.org/wiki/Nearest_neighbor,https://en.wikipedia.org/wiki/Linked_list,None,ACL,W-DSA,en
+priority queue,linked list,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Linked_list,A->B,ACL,W-DSA,en
+search algorithm,linked list,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Linked_list,None,ACL,W-DSA,en
+search problem,linked list,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Linked_list,None,ACL,W-DSA,en
+search tree,linked list,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Linked_list,A->B,ACL,W-DSA,en
+select algorithm,linked list,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Linked_list,None,ACL,W-DSA,en
+shortest path,linked list,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Linked_list,None,ACL,W-DSA,en
+sort algorithm,linked list,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Linked_list,None,ACL,W-DSA,en
+search problem,longest path problem,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Longest_path_problem,None,ACL,W-DSA,en
+shortest path,longest path problem,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Longest_path_problem,None,ACL,W-DSA,en
+shortest path problem,longest path problem,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Longest_path_problem,None,ACL,W-DSA,en
+pattern matching,memory footprint,https://en.wikipedia.org/wiki/Pattern_matching,https://en.wikipedia.org/wiki/Memory_footprint,None,ACL,W-DSA,en
+suffix tree,memory footprint,https://en.wikipedia.org/wiki/Suffix_tree,https://en.wikipedia.org/wiki/Memory_footprint,None,ACL,W-DSA,en
+minimum spanning tree,merge sort,https://en.wikipedia.org/wiki/Minimum_spanning_tree,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+priority queue,merge sort,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Merge_sort,A->B,ACL,W-DSA,en
+random permutation,merge sort,https://en.wikipedia.org/wiki/Random_permutation,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+random variable,merge sort,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+randomized algorithm,merge sort,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+search algorithm,merge sort,https://en.wikipedia.org/wiki/Search_algorithm,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+search tree,merge sort,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+select algorithm,merge sort,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+selection sort,merge sort,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+shortest path,merge sort,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+sort algorithm,merge sort,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+spanning tree,merge sort,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Merge_sort,None,ACL,W-DSA,en
+nearest neighbor,minimum spanning tree,https://en.wikipedia.org/wiki/Nearest_neighbor,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+priority queue,minimum spanning tree,https://en.wikipedia.org/wiki/Priority_queue,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+randomized algorithm,minimum spanning tree,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+search problem,minimum spanning tree,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+search tree,minimum spanning tree,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+shortest path,minimum spanning tree,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+shortest path problem,minimum spanning tree,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+sort algorithm,minimum spanning tree,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+spanning tree,minimum spanning tree,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Minimum_spanning_tree,A->B,ACL,W-DSA,en
+triangle inequality,minimum spanning tree,https://en.wikipedia.org/wiki/Triangle_inequality,https://en.wikipedia.org/wiki/Minimum_spanning_tree,None,ACL,W-DSA,en
+randomized algorithm,nearest neighbor,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Nearest_neighbor,None,ACL,W-DSA,en
+search problem,nearest neighbor,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Nearest_neighbor,None,ACL,W-DSA,en
+search tree,nearest neighbor,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Nearest_neighbor,None,ACL,W-DSA,en
+shortest path,nearest neighbor,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Nearest_neighbor,None,ACL,W-DSA,en
+sort algorithm,nearest neighbor,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Nearest_neighbor,None,ACL,W-DSA,en
+spanning tree,nearest neighbor,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Nearest_neighbor,None,ACL,W-DSA,en
+suffix tree,pattern matching,https://en.wikipedia.org/wiki/Suffix_tree,https://en.wikipedia.org/wiki/Pattern_matching,A->B,ACL,W-DSA,en
+search problem,priority queue,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Priority_queue,None,ACL,W-DSA,en
+search tree,priority queue,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Priority_queue,None,ACL,W-DSA,en
+select algorithm,priority queue,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Priority_queue,None,ACL,W-DSA,en
+selection sort,priority queue,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Priority_queue,None,ACL,W-DSA,en
+shortest path,priority queue,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Priority_queue,None,ACL,W-DSA,en
+sort algorithm,priority queue,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Priority_queue,A->B,ACL,W-DSA,en
+spanning tree,priority queue,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Priority_queue,None,ACL,W-DSA,en
+sweep line algorithm,priority queue,https://en.wikipedia.org/wiki/Sweep_line_algorithm,https://en.wikipedia.org/wiki/Priority_queue,None,ACL,W-DSA,en
+sort algorithm,random permutation,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Random_permutation,A->B,ACL,W-DSA,en
+randomized algorithm,random variable,https://en.wikipedia.org/wiki/Randomized_algorithm,https://en.wikipedia.org/wiki/Random_variable,None,ACL,W-DSA,en
+select algorithm,random variable,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Random_variable,None,ACL,W-DSA,en
+sort algorithm,random variable,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Random_variable,None,ACL,W-DSA,en
+search tree,randomized algorithm,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Randomized_algorithm,None,ACL,W-DSA,en
+select algorithm,randomized algorithm,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Randomized_algorithm,None,ACL,W-DSA,en
+shortest path,randomized algorithm,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Randomized_algorithm,None,ACL,W-DSA,en
+sort algorithm,randomized algorithm,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Randomized_algorithm,None,ACL,W-DSA,en
+spanning tree,randomized algorithm,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Randomized_algorithm,None,ACL,W-DSA,en
+search problem,search algorithm,https://en.wikipedia.org/wiki/Search_problem,https://en.wikipedia.org/wiki/Search_algorithm,A->B,ACL,W-DSA,en
+search tree,search algorithm,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Search_algorithm,None,ACL,W-DSA,en
+shortest path,search algorithm,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Search_algorithm,None,ACL,W-DSA,en
+sort algorithm,search algorithm,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Search_algorithm,None,ACL,W-DSA,en
+triangle inequality,search algorithm,https://en.wikipedia.org/wiki/Triangle_inequality,https://en.wikipedia.org/wiki/Search_algorithm,None,ACL,W-DSA,en
+search tree,search problem,https://en.wikipedia.org/wiki/Search_tree,https://en.wikipedia.org/wiki/Search_problem,A->B,ACL,W-DSA,en
+shortest path,search problem,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Search_problem,None,ACL,W-DSA,en
+shortest path problem,search problem,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Search_problem,None,ACL,W-DSA,en
+sort algorithm,search problem,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Search_problem,None,ACL,W-DSA,en
+spanning tree,search problem,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Search_problem,None,ACL,W-DSA,en
+sweep line algorithm,search problem,https://en.wikipedia.org/wiki/Sweep_line_algorithm,https://en.wikipedia.org/wiki/Search_problem,None,ACL,W-DSA,en
+select algorithm,search tree,https://en.wikipedia.org/wiki/Selection_algorithm,https://en.wikipedia.org/wiki/Search_tree,None,ACL,W-DSA,en
+selection sort,search tree,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Search_tree,None,ACL,W-DSA,en
+shortest path,search tree,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Search_tree,None,ACL,W-DSA,en
+sort algorithm,search tree,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Search_tree,None,ACL,W-DSA,en
+spanning tree,search tree,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Search_tree,None,ACL,W-DSA,en
+sweep line algorithm,search tree,https://en.wikipedia.org/wiki/Sweep_line_algorithm,https://en.wikipedia.org/wiki/Search_tree,None,ACL,W-DSA,en
+selection sort,select algorithm,https://en.wikipedia.org/wiki/Selection_sort,https://en.wikipedia.org/wiki/Selection_algorithm,A->B,ACL,W-DSA,en
+shortest path,select algorithm,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Selection_algorithm,None,ACL,W-DSA,en
+sort algorithm,select algorithm,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Selection_algorithm,A->B,ACL,W-DSA,en
+shortest path,selection sort,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Selection_sort,None,ACL,W-DSA,en
+sort algorithm,selection sort,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Selection_sort,A->B,ACL,W-DSA,en
+shortest path problem,shortest path,https://en.wikipedia.org/wiki/Shortest_path_problem,https://en.wikipedia.org/wiki/Shortest_path_problem,A->B,ACL,W-DSA,en
+sort algorithm,shortest path,https://en.wikipedia.org/wiki/Sorting_algorithm,https://en.wikipedia.org/wiki/Shortest_path_problem,None,ACL,W-DSA,en
+spanning tree,shortest path,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Shortest_path_problem,None,ACL,W-DSA,en
+triangle inequality,shortest path,https://en.wikipedia.org/wiki/Triangle_inequality,https://en.wikipedia.org/wiki/Shortest_path_problem,None,ACL,W-DSA,en
+spanning tree,shortest path problem,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Shortest_path_problem,None,ACL,W-DSA,en
+spanning tree,sort algorithm,https://en.wikipedia.org/wiki/Spanning_tree,https://en.wikipedia.org/wiki/Sorting_algorithm,None,ACL,W-DSA,en
+triangle inequality,spanning tree,https://en.wikipedia.org/wiki/Triangle_inequality,https://en.wikipedia.org/wiki/Spanning_tree,None,ACL,W-DSA,en
+feature vector,activation function,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+gradient descent,activation function,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+linear regression,activation function,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+logistic function,activation function,https://en.wikipedia.org/wiki/Logistic_function,https://en.wikipedia.org/wiki/Activation_function,A->B,ACL,W-ML,en
+logistic regression,activation function,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+Loss_function,activation function,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+neural network,activation function,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Activation_function,A->B,ACL,W-ML,en
+optimization problem,activation function,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+partial derivative,activation function,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+sigmoid function,activation function,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Activation_function,A->B,ACL,W-ML,en
+supervised learning,activation function,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+support vector machine,activation function,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+test data,activation function,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+training data set,activation function,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Activation_function,None,ACL,W-ML,en
+computer vision,anomaly detection,https://en.wikipedia.org/wiki/Computer_vision,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+covariance matrix,anomaly detection,https://en.wikipedia.org/wiki/Covariance_matrix,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+data set,anomaly detection,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Anomaly_detection,A->B,ACL,W-ML,en
+Error_analysis_(mathematics),anomaly detection,https://en.wikipedia.org/wiki/Error_analysis,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+f score,anomaly detection,https://en.wikipedia.org/wiki/F-score,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+false negative,anomaly detection,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+false positives,anomaly detection,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+feature vector,anomaly detection,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+gaussian density,anomaly detection,https://en.wikipedia.org/wiki/Normal_distribution,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+hierarchical Computer_cluster,anomaly detection,https://en.wikipedia.org/wiki/Hierarchical_Computer_cluster,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+Identity_matrix,anomaly detection,https://en.wikipedia.org/wiki/Identity_matrix,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+learning curve,anomaly detection,https://en.wikipedia.org/wiki/Learning_curve,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+linear algebra,anomaly detection,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+linear regression,anomaly detection,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+logistic regression,anomaly detection,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+machine learning,anomaly detection,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Anomaly_detection,A->B,ACL,W-ML,en
+maximum likelihood,anomaly detection,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+neural network,anomaly detection,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+probability density,anomaly detection,https://en.wikipedia.org/wiki/Probability_density_function,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+random variable,anomaly detection,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+recommender system,anomaly detection,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+standard deviation,anomaly detection,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+supervised learning,anomaly detection,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Anomaly_detection,A->B,ACL,W-ML,en
+symmetric matrix,anomaly detection,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+test data,anomaly detection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+test data,anomaly detection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Anomaly_detection,None,ACL,W-ML,en
+training data set,anomaly detection,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Anomaly_detection,A->B,ACL,W-ML,en
+unsupervised learning,anomaly detection,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Anomaly_detection,A->B,ACL,W-ML,en
+coordinate descent,bayesian inference,https://en.wikipedia.org/wiki/Coordinate_descent,https://en.wikipedia.org/wiki/Bayesian_inference,None,ACL,W-ML,en
+data set,bayesian inference,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Bayesian_inference,A->B,ACL,W-ML,en
+gibbs sampler,bayesian inference,https://en.wikipedia.org/wiki/Gibbs_sampling,https://en.wikipedia.org/wiki/Bayesian_inference,A->B,ACL,W-ML,en
+gradient descent,bayesian inference,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Bayesian_inference,None,ACL,W-ML,en
+latent dirichlet allocation,bayesian inference,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Bayesian_inference,A->B,ACL,W-ML,en
+Loss_function,bayesian inference,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Bayesian_inference,None,ACL,W-ML,en
+machine learning,bayesian inference,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Bayesian_inference,A->B,ACL,W-ML,en
+maximum likelihood,bayesian inference,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Bayesian_inference,A->B,ACL,W-ML,en
+mixture model,bayesian inference,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Bayesian_inference,None,ACL,W-ML,en
+nearest neighbor search,bayesian inference,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Bayesian_inference,None,ACL,W-ML,en
+Stochastic_gradient_descent,bayesian inference,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Bayesian_inference,None,ACL,W-ML,en
+supervised learning,bayesian inference,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Bayesian_inference,None,ACL,W-ML,en
+unsupervised learning,bayesian inference,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Bayesian_inference,None,ACL,W-ML,en
+data set,binary classification,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Binary_classification,A->B,ACL,W-ML,en
+decision tree,binary classification,https://en.wikipedia.org/wiki/Decision_tree,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+Error_analysis_(mathematics),binary classification,https://en.wikipedia.org/wiki/Error_analysis,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+false negative,binary classification,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+false positives,binary classification,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+greedy algorithm,binary classification,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+linear classifier,binary classification,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+linear regression,binary classification,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+logistic regression,binary classification,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+Loss_function,binary classification,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Binary_classification,None,ACL,W-ML,en
+machine learning,binary classification,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Binary_classification,A->B,ACL,W-ML,en
+multi-class classification,binary classification,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Binary_classification,A->B,ACL,W-ML,en
+neural network,binary classification,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Binary_classification,A->B,ACL,W-ML,en
+test data,binary classification,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Binary_classification,A->B,ACL,W-ML,en
+training data set,binary classification,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Binary_classification,A->B,ACL,W-ML,en
+computer vision,collaborative filtering,https://en.wikipedia.org/wiki/Computer_vision,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+coordinate descent,collaborative filtering,https://en.wikipedia.org/wiki/Coordinate_descent,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+data set,collaborative filtering,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Collaborative_filtering,A->B,ACL,W-ML,en
+Decision_boundary,collaborative filtering,https://en.wikipedia.org/wiki/Decision_boundary,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+decision tree,collaborative filtering,https://en.wikipedia.org/wiki/Decision_tree,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+deep learning,collaborative filtering,https://en.wikipedia.org/wiki/Deep_learning,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+document retrieval,collaborative filtering,https://en.wikipedia.org/wiki/Document_retrieval,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+feature vector,collaborative filtering,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Collaborative_filtering,A->B,ACL,W-ML,en
+gradient descent,collaborative filtering,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+inner product,collaborative filtering,https://en.wikipedia.org/wiki/Inner_product_space,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+latent dirichlet allocation,collaborative filtering,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+linear algebra,collaborative filtering,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Collaborative_filtering,A->B,ACL,W-ML,en
+linear classifier,collaborative filtering,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+linear regression,collaborative filtering,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+logistic regression,collaborative filtering,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+Loss_function,collaborative filtering,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+machine learning,collaborative filtering,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Collaborative_filtering,A->B,ACL,W-ML,en
+maximum likelihood,collaborative filtering,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+neural network,collaborative filtering,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+optimization problem,collaborative filtering,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+partial derivative,collaborative filtering,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+recommender system,collaborative filtering,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Collaborative_filtering,A->B,ACL,W-ML,en
+sentiment analysis,collaborative filtering,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+Stochastic_gradient_descent,collaborative filtering,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+support vector machine,collaborative filtering,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Collaborative_filtering,None,ACL,W-ML,en
+symmetric matrix,collaborative filtering,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Collaborative_filtering,A->B,ACL,W-ML,en
+test data,collaborative filtering,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Collaborative_filtering,A->B,ACL,W-ML,en
+training data set,collaborative filtering,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Collaborative_filtering,A->B,ACL,W-ML,en
+coordinate descent,computer vision,https://en.wikipedia.org/wiki/Coordinate_descent,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+data set,computer vision,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Computer_vision,A->B,ACL,W-ML,en
+Decision_boundary,computer vision,https://en.wikipedia.org/wiki/Decision_boundary,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+decision tree,computer vision,https://en.wikipedia.org/wiki/Decision_tree,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+deep learning,computer vision,https://en.wikipedia.org/wiki/Deep_learning,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+document retrieval,computer vision,https://en.wikipedia.org/wiki/Document_retrieval,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+Error_analysis_(mathematics),computer vision,https://en.wikipedia.org/wiki/Error_analysis,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+f score,computer vision,https://en.wikipedia.org/wiki/F-score,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+face detection,computer vision,https://en.wikipedia.org/wiki/Face_detection,https://en.wikipedia.org/wiki/Computer_vision,A->B,ACL,W-ML,en
+feature extraction,computer vision,https://en.wikipedia.org/wiki/Feature_extraction,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+feature vector,computer vision,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+gradient descent,computer vision,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+Image_retrieval,computer vision,https://en.wikipedia.org/wiki/Image_retrieval,https://en.wikipedia.org/wiki/Computer_vision,A->B,ACL,W-ML,en
+Kernel_function,computer vision,https://en.wikipedia.org/wiki/Positive-definite_kernel,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+latent dirichlet allocation,computer vision,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+learning curve,computer vision,https://en.wikipedia.org/wiki/Learning_curve,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+linear classifier,computer vision,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+linear regression,computer vision,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+logistic regression,computer vision,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+Loss_function,computer vision,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+machine learning,computer vision,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Computer_vision,A->B,ACL,W-ML,en
+maximum likelihood,computer vision,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+multi-class classification,computer vision,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+neural network,computer vision,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+pedestrian detection,computer vision,https://en.wikipedia.org/wiki/Pedestrian_detection,https://en.wikipedia.org/wiki/Computer_vision,A->B,ACL,W-ML,en
+recommender system,computer vision,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+sentiment analysis,computer vision,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+sigmoid function,computer vision,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+Stochastic_gradient_descent,computer vision,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+supervised learning,computer vision,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+support vector machine,computer vision,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+test data,computer vision,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+test data,computer vision,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+training data set,computer vision,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+unsupervised learning,computer vision,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Computer_vision,None,ACL,W-ML,en
+convex function,concave function,https://en.wikipedia.org/wiki/Convex_function,https://en.wikipedia.org/wiki/Concave_function,None,ACL,W-ML,en
+data set,conditional probabilities,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Conditional_probability,None,ACL,W-ML,en
+data set,confusion matrix,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Confusion_matrix,A->B,ACL,W-ML,en
+false negative,confusion matrix,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Confusion_matrix,A->B,ACL,W-ML,en
+false positives,confusion matrix,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Confusion_matrix,A->B,ACL,W-ML,en
+logistic regression,confusion matrix,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Confusion_matrix,None,ACL,W-ML,en
+sentiment analysis,confusion matrix,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Confusion_matrix,None,ACL,W-ML,en
+test data,confusion matrix,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Confusion_matrix,None,ACL,W-ML,en
+test data,confusion matrix,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Confusion_matrix,None,ACL,W-ML,en
+training data set,confusion matrix,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Confusion_matrix,None,ACL,W-ML,en
+coordinate descent,convex function,https://en.wikipedia.org/wiki/Coordinate_descent,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+data set,convex function,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+global optimum,convex function,https://en.wikipedia.org/wiki/Maxima_and_minima,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+gradient descent,convex function,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Convex_function,A->B,ACL,W-ML,en
+least squares,convex function,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+likelihood function,convex function,https://en.wikipedia.org/wiki/Likelihood_function,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+linear algebra,convex function,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+linear regression,convex function,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+local optima,convex function,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+logistic regression,convex function,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+Loss_function,convex function,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+machine learning,convex function,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+optimization problem,convex function,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+partial derivative,convex function,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+polynomial regression,convex function,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+Stochastic_gradient_descent,convex function,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Convex_function,A->B,ACL,W-ML,en
+supervised learning,convex function,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+training data set,convex function,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Convex_function,None,ACL,W-ML,en
+data set,coordinate descent,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+decision tree,coordinate descent,https://en.wikipedia.org/wiki/Decision_tree,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+deep learning,coordinate descent,https://en.wikipedia.org/wiki/Deep_learning,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+document retrieval,coordinate descent,https://en.wikipedia.org/wiki/Document_retrieval,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+feature selection,coordinate descent,https://en.wikipedia.org/wiki/Feature_selection,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+gibbs sampler,coordinate descent,https://en.wikipedia.org/wiki/Gibbs_sampling,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+global optimum,coordinate descent,https://en.wikipedia.org/wiki/Maxima_and_minima,https://en.wikipedia.org/wiki/Coordinate_descent,A->B,ACL,W-ML,en
+gradient descent,coordinate descent,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+greedy algorithm,coordinate descent,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+kernel regression,coordinate descent,https://en.wikipedia.org/wiki/Kernel_regression,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+latent dirichlet allocation,coordinate descent,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+least squares,coordinate descent,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+linear classifier,coordinate descent,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+linear model,coordinate descent,https://en.wikipedia.org/wiki/Linear_model,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+linear regression,coordinate descent,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+local optima,coordinate descent,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Coordinate_descent,A->B,ACL,W-ML,en
+logistic regression,coordinate descent,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+Loss_function,coordinate descent,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Coordinate_descent,A->B,ACL,W-ML,en
+machine learning,coordinate descent,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+maximum likelihood,coordinate descent,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+mean square error,coordinate descent,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+model selection,coordinate descent,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+nearest neighbor search,coordinate descent,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+optimization problem,coordinate descent,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Coordinate_descent,A->B,ACL,W-ML,en
+partial derivative,coordinate descent,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+recommender system,coordinate descent,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+sentiment analysis,coordinate descent,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+Stochastic_gradient_descent,coordinate descent,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+support vector machine,coordinate descent,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Coordinate_descent,None,ACL,W-ML,en
+data set,covariance matrix,https://en.wikipedia.org/wiki/Data_set,https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+feature vector,covariance matrix,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+gaussian density,covariance matrix,https://en.wikipedia.org/wiki/Normal_distribution,https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+Identity_matrix,covariance matrix,https://en.wikipedia.org/wiki/Identity_matrix,https://en.wikipedia.org/wiki/Covariance_matrix,A->B,ACL,W-ML,en
+linear algebra,covariance matrix,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+maximum likelihood,covariance matrix,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+mixture model,covariance matrix,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+probability density,covariance matrix,https://en.wikipedia.org/wiki/Probability_density_function,https://en.wikipedia.org/wiki/Covariance_matrix,A->B,ACL,W-ML,en
+random variable,covariance matrix,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Covariance_matrix,A->B,ACL,W-ML,en
+standard deviation,covariance matrix,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Covariance_matrix,A->B,ACL,W-ML,en
+supervised learning,covariance matrix,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+symmetric matrix,covariance matrix,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Covariance_matrix,A->B,ACL,W-ML,en
+test data,covariance matrix,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+training data set,covariance matrix,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Covariance_matrix,None,ACL,W-ML,en
+Decision_boundary,data set,https://en.wikipedia.org/wiki/Decision_boundary,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+decision tree,data set,https://en.wikipedia.org/wiki/Decision_tree,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+deep learning,data set,https://en.wikipedia.org/wiki/Deep_learning,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+design matrix,data set,https://en.wikipedia.org/wiki/Design_matrix,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+document retrieval,data set,https://en.wikipedia.org/wiki/Document_retrieval,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+Error_analysis_(mathematics),data set,https://en.wikipedia.org/wiki/Error_analysis,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+f score,data set,https://en.wikipedia.org/wiki/F-score,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+face detection,data set,https://en.wikipedia.org/wiki/Face_detection,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+false negative,data set,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+false positives,data set,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+feature extraction,data set,https://en.wikipedia.org/wiki/Feature_extraction,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+feature selection,data set,https://en.wikipedia.org/wiki/Feature_selection,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+feature vector,data set,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+gaussian density,data set,https://en.wikipedia.org/wiki/Normal_distribution,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+generalization error,data set,https://en.wikipedia.org/wiki/Generalization_error,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+gibbs sampler,data set,https://en.wikipedia.org/wiki/Gibbs_sampling,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+global optimum,data set,https://en.wikipedia.org/wiki/Maxima_and_minima,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+gradient descent,data set,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+greedy algorithm,data set,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+hierarchical Computer_cluster,data set,https://en.wikipedia.org/wiki/Hierarchical_Computer_cluster,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+Identity_matrix,data set,https://en.wikipedia.org/wiki/Identity_matrix,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+Image_retrieval,data set,https://en.wikipedia.org/wiki/Image_retrieval,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+inner product,data set,https://en.wikipedia.org/wiki/Inner_product_space,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+kernel regression,data set,https://en.wikipedia.org/wiki/Kernel_regression,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+latent dirichlet allocation,data set,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+learning curve,data set,https://en.wikipedia.org/wiki/Learning_curve,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+least squares,data set,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+likelihood function,data set,https://en.wikipedia.org/wiki/Likelihood_function,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+linear algebra,data set,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+linear classifier,data set,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+linear model,data set,https://en.wikipedia.org/wiki/Linear_model,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+linear regression,data set,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+local optima,data set,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+logistic regression,data set,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+Loss_function,data set,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+machine learning,data set,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+maximum likelihood,data set,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+mean square error,data set,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+mixture model,data set,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+model selection,data set,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+multi-class classification,data set,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+nearest neighbor search,data set,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+neural network,data set,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+optimization problem,data set,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+partial derivative,data set,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+polynomial regression,data set,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+prior probability,data set,https://en.wikipedia.org/wiki/Prior_probability,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+probability density,data set,https://en.wikipedia.org/wiki/Probability_density_function,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+random variable,data set,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+recommender system,data set,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+sentiment analysis,data set,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+sigmoid function,data set,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+standard deviation,data set,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+Stochastic_gradient_descent,data set,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+supervised learning,data set,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+support vector machine,data set,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+symmetric matrix,data set,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+test data,data set,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Data_set,None,ACL,W-ML,en
+test data,data set,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+training data set,data set,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+unsupervised learning,data set,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Data_set,A->B,ACL,W-ML,en
+decision tree,Decision_boundary,https://en.wikipedia.org/wiki/Decision_tree,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+deep learning,Decision_boundary,https://en.wikipedia.org/wiki/Deep_learning,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+document retrieval,Decision_boundary,https://en.wikipedia.org/wiki/Document_retrieval,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+Error_analysis_(mathematics),Decision_boundary,https://en.wikipedia.org/wiki/Error_analysis,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+false negative,Decision_boundary,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+false positives,Decision_boundary,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+feature extraction,Decision_boundary,https://en.wikipedia.org/wiki/Feature_extraction,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+feature vector,Decision_boundary,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Decision_boundary,A->B,ACL,W-ML,en
+gradient descent,Decision_boundary,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+inner product,Decision_boundary,https://en.wikipedia.org/wiki/Inner_product_space,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+Kernel_function,Decision_boundary,https://en.wikipedia.org/wiki/Positive-definite_kernel,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+linear algebra,Decision_boundary,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+linear classifier,Decision_boundary,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+linear model,Decision_boundary,https://en.wikipedia.org/wiki/Linear_model,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+linear regression,Decision_boundary,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+local optima,Decision_boundary,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+logistic function,Decision_boundary,https://en.wikipedia.org/wiki/Logistic_function,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+logistic regression,Decision_boundary,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+Loss_function,Decision_boundary,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+machine learning,Decision_boundary,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Decision_boundary,A->B,ACL,W-ML,en
+maximum likelihood,Decision_boundary,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+model selection,Decision_boundary,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+multi-class classification,Decision_boundary,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+nearest neighbor search,Decision_boundary,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+neural network,Decision_boundary,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+optimization problem,Decision_boundary,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+partial derivative,Decision_boundary,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+polynomial regression,Decision_boundary,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+sentiment analysis,Decision_boundary,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+sigmoid function,Decision_boundary,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+supervised learning,Decision_boundary,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Decision_boundary,A->B,ACL,W-ML,en
+support vector machine,Decision_boundary,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Decision_boundary,A->B,ACL,W-ML,en
+test data,Decision_boundary,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+training data set,Decision_boundary,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+unsupervised learning,Decision_boundary,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Decision_boundary,None,ACL,W-ML,en
+deep learning,decision tree,https://en.wikipedia.org/wiki/Deep_learning,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+early stopping,decision tree,https://en.wikipedia.org/wiki/Early_stopping,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+face detection,decision tree,https://en.wikipedia.org/wiki/Face_detection,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+feature selection,decision tree,https://en.wikipedia.org/wiki/Feature_selection,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+gradient descent,decision tree,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+greedy algorithm,decision tree,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+latent dirichlet allocation,decision tree,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+learning curve,decision tree,https://en.wikipedia.org/wiki/Learning_curve,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+linear classifier,decision tree,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+linear regression,decision tree,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+logistic regression,decision tree,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+Loss_function,decision tree,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+machine learning,decision tree,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Decision_tree,A->B,ACL,W-ML,en
+maximum likelihood,decision tree,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+multi-class classification,decision tree,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+recommender system,decision tree,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+sentiment analysis,decision tree,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+Stochastic_gradient_descent,decision tree,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+support vector machine,decision tree,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+test data,decision tree,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Decision_tree,A->B,ACL,W-ML,en
+test data,decision tree,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Decision_tree,None,ACL,W-ML,en
+document retrieval,deep learning,https://en.wikipedia.org/wiki/Document_retrieval,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+feature extraction,deep learning,https://en.wikipedia.org/wiki/Feature_extraction,https://en.wikipedia.org/wiki/Deep_learning,A->B,ACL,W-ML,en
+gradient descent,deep learning,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+Image_retrieval,deep learning,https://en.wikipedia.org/wiki/Image_retrieval,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+latent dirichlet allocation,deep learning,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+linear classifier,deep learning,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Deep_learning,A->B,ACL,W-ML,en
+linear regression,deep learning,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+logistic regression,deep learning,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+Loss_function,deep learning,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+machine learning,deep learning,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Deep_learning,A->B,ACL,W-ML,en
+maximum likelihood,deep learning,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+neural network,deep learning,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Deep_learning,A->B,ACL,W-ML,en
+partial derivative,deep learning,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Deep_learning,A->B,ACL,W-ML,en
+recommender system,deep learning,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+sentiment analysis,deep learning,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+Stochastic_gradient_descent,deep learning,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+support vector machine,deep learning,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+test data,deep learning,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+test data,deep learning,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Deep_learning,None,ACL,W-ML,en
+training data set,deep learning,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Deep_learning,A->B,ACL,W-ML,en
+feature vector,design matrix,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Design_matrix,A->B,ACL,W-ML,en
+gradient descent,design matrix,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Design_matrix,None,ACL,W-ML,en
+linear algebra,design matrix,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Design_matrix,None,ACL,W-ML,en
+linear regression,design matrix,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Design_matrix,None,ACL,W-ML,en
+logistic regression,design matrix,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Design_matrix,None,ACL,W-ML,en
+Loss_function,design matrix,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Design_matrix,None,ACL,W-ML,en
+partial derivative,design matrix,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Design_matrix,None,ACL,W-ML,en
+training data set,design matrix,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Design_matrix,A->B,ACL,W-ML,en
+gradient descent,document retrieval,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+inner product,document retrieval,https://en.wikipedia.org/wiki/Inner_product_space,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+latent dirichlet allocation,document retrieval,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+linear classifier,document retrieval,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+machine learning,document retrieval,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Document_retrieval,A->B,ACL,W-ML,en
+mixture model,document retrieval,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+nearest neighbor search,document retrieval,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+neural network,document retrieval,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+recommender system,document retrieval,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+sentiment analysis,document retrieval,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+supervised learning,document retrieval,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+unsupervised learning,document retrieval,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Document_retrieval,None,ACL,W-ML,en
+machine learning,early stopping,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Early_stopping,A->B,ACL,W-ML,en
+test data,early stopping,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Early_stopping,None,ACL,W-ML,en
+f score,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/F-score,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+false negative,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Error_analysis,A->B,ACL,W-ML,en
+false positives,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/Error_analysis,A->B,ACL,W-ML,en
+feature vector,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+gaussian density,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Normal_distribution,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+inner product,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Inner_product_space,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+Kernel_function,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Positive-definite_kernel,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+learning curve,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Learning_curve,https://en.wikipedia.org/wiki/Error_analysis,A->B,ACL,W-ML,en
+linear classifier,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+linear regression,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+local optima,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+logistic regression,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+Loss_function,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+machine learning,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+multi-class classification,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+neural network,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+optimization problem,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+recommender system,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+supervised learning,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+support vector machine,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+test data,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Error_analysis,A->B,ACL,W-ML,en
+training data set,Error_analysis_(mathematics),"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Error_analysis,A->B,ACL,W-ML,en
+unsupervised learning,Error_analysis_(mathematics),https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Error_analysis,None,ACL,W-ML,en
+false negative,f score,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+false positives,f score,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+learning curve,f score,https://en.wikipedia.org/wiki/Learning_curve,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+linear regression,f score,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+logistic regression,f score,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+machine learning,f score,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+neural network,f score,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+recommender system,f score,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+supervised learning,f score,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+test data,f score,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/F-score,A->B,ACL,W-ML,en
+test data,f score,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/F-score,A->B,ACL,W-ML,en
+training data set,f score,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/F-score,A->B,ACL,W-ML,en
+unsupervised learning,f score,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/F-score,None,ACL,W-ML,en
+logistic regression,face detection,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Face_detection,None,ACL,W-ML,en
+Loss_function,face detection,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Face_detection,None,ACL,W-ML,en
+machine learning,face detection,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Face_detection,None,ACL,W-ML,en
+test data,face detection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Face_detection,None,ACL,W-ML,en
+test data,face detection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Face_detection,None,ACL,W-ML,en
+false positives,false negative,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,None,ACL,W-ML,en
+machine learning,false negative,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,A->B,ACL,W-ML,en
+supervised learning,false negative,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,None,ACL,W-ML,en
+test data,false negative,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,A->B,ACL,W-ML,en
+test data,false negative,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,A->B,ACL,W-ML,en
+training data set,false negative,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/False_positives_and_false_negatives,None,ACL,W-ML,en
+unsupervised learning,false negative,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,None,ACL,W-ML,en
+machine learning,false positives,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,None,ACL,W-ML,en
+supervised learning,false positives,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,None,ACL,W-ML,en
+test data,false positives,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,A->B,ACL,W-ML,en
+test data,false positives,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,A->B,ACL,W-ML,en
+training data set,false positives,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/False_positives_and_false_negatives,None,ACL,W-ML,en
+unsupervised learning,false positives,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/False_positives_and_false_negatives,None,ACL,W-ML,en
+gradient descent,feature extraction,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Feature_extraction,None,ACL,W-ML,en
+Image_retrieval,feature extraction,https://en.wikipedia.org/wiki/Image_retrieval,https://en.wikipedia.org/wiki/Feature_extraction,A->B,ACL,W-ML,en
+likelihood function,feature extraction,https://en.wikipedia.org/wiki/Likelihood_function,https://en.wikipedia.org/wiki/Feature_extraction,None,ACL,W-ML,en
+linear classifier,feature extraction,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Feature_extraction,None,ACL,W-ML,en
+linear model,feature extraction,https://en.wikipedia.org/wiki/Linear_model,https://en.wikipedia.org/wiki/Feature_extraction,None,ACL,W-ML,en
+logistic regression,feature extraction,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Feature_extraction,None,ACL,W-ML,en
+machine learning,feature extraction,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Feature_extraction,A->B,ACL,W-ML,en
+neural network,feature extraction,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Feature_extraction,A->B,ACL,W-ML,en
+polynomial regression,feature extraction,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Feature_extraction,None,ACL,W-ML,en
+sentiment analysis,feature extraction,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Feature_extraction,A->B,ACL,W-ML,en
+training data set,feature extraction,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Feature_extraction,None,ACL,W-ML,en
+feature vector,feature selection,https://en.wikipedia.org/wiki/Feature_(machine_learning),https://en.wikipedia.org/wiki/Feature_selection,A->B,ACL,W-ML,en
+gradient descent,feature selection,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+greedy algorithm,feature selection,https://en.wikipedia.org/wiki/Greedy_algorithm,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+kernel regression,feature selection,https://en.wikipedia.org/wiki/Kernel_regression,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+least squares,feature selection,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+linear model,feature selection,https://en.wikipedia.org/wiki/Linear_model,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+linear regression,feature selection,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+Loss_function,feature selection,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+machine learning,feature selection,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Feature_selection,A->B,ACL,W-ML,en
+maximum likelihood,feature selection,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+model selection,feature selection,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Feature_selection,A->B,ACL,W-ML,en
+optimization problem,feature selection,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Feature_selection,None,ACL,W-ML,en
+test data,feature selection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Feature_selection,A->B,ACL,W-ML,en
+test data,feature selection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Feature_selection,A->B,ACL,W-ML,en
+gaussian density,feature vector,https://en.wikipedia.org/wiki/Normal_distribution,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+gradient descent,feature vector,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+inner product,feature vector,https://en.wikipedia.org/wiki/Inner_product_space,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+Kernel_function,feature vector,https://en.wikipedia.org/wiki/Positive-definite_kernel,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+least squares,feature vector,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+linear algebra,feature vector,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+linear classifier,feature vector,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+linear regression,feature vector,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+local optima,feature vector,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+logistic function,feature vector,https://en.wikipedia.org/wiki/Logistic_function,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+logistic regression,feature vector,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+Loss_function,feature vector,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+machine learning,feature vector,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+multi-class classification,feature vector,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+nearest neighbor search,feature vector,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+neural network,feature vector,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+optimization problem,feature vector,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+partial derivative,feature vector,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+recommender system,feature vector,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+sigmoid function,feature vector,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+standard deviation,feature vector,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+supervised learning,feature vector,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+support vector machine,feature vector,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Feature_(machine_learning),A->B,ACL,W-ML,en
+test data,feature vector,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+test data,feature vector,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+training data set,feature vector,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+unsupervised learning,feature vector,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Feature_(machine_learning),None,ACL,W-ML,en
+gibbs sampler,gaussian density,https://en.wikipedia.org/wiki/Gibbs_sampling,https://en.wikipedia.org/wiki/Normal_distribution,A->B,ACL,W-ML,en
+Identity_matrix,gaussian density,https://en.wikipedia.org/wiki/Identity_matrix,https://en.wikipedia.org/wiki/Normal_distribution,A->B,ACL,W-ML,en
+latent dirichlet allocation,gaussian density,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+linear algebra,gaussian density,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+machine learning,gaussian density,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+maximum likelihood,gaussian density,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+mixture model,gaussian density,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+prior probability,gaussian density,https://en.wikipedia.org/wiki/Prior_probability,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+probability density,gaussian density,https://en.wikipedia.org/wiki/Probability_density_function,https://en.wikipedia.org/wiki/Normal_distribution,A->B,ACL,W-ML,en
+random numbers,gaussian density,https://en.wikipedia.org/wiki/Random_number,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+random variable,gaussian density,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+standard deviation,gaussian density,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Normal_distribution,A->B,ACL,W-ML,en
+supervised learning,gaussian density,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+symmetric matrix,gaussian density,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Normal_distribution,A->B,ACL,W-ML,en
+test data,gaussian density,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+training data set,gaussian density,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Normal_distribution,None,ACL,W-ML,en
+gradient descent,generalization error,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Generalization_error,None,ACL,W-ML,en
+Identity_matrix,generalization error,https://en.wikipedia.org/wiki/Identity_matrix,https://en.wikipedia.org/wiki/Generalization_error,None,ACL,W-ML,en
+Loss_function,generalization error,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Generalization_error,A->B,ACL,W-ML,en
+machine learning,generalization error,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Generalization_error,A->B,ACL,W-ML,en
+mean square error,generalization error,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Generalization_error,None,ACL,W-ML,en
+model selection,generalization error,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Generalization_error,A->B,ACL,W-ML,en
+polynomial regression,generalization error,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Generalization_error,None,ACL,W-ML,en
+random variable,generalization error,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Generalization_error,None,ACL,W-ML,en
+test data,generalization error,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Generalization_error,A->B,ACL,W-ML,en
+test data,generalization error,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Generalization_error,A->B,ACL,W-ML,en
+training data set,generalization error,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Generalization_error,A->B,ACL,W-ML,en
+gradient descent,gibbs sampler,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+latent dirichlet allocation,gibbs sampler,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+Loss_function,gibbs sampler,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+machine learning,gibbs sampler,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+maximum likelihood,gibbs sampler,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Gibbs_sampling,A->B,ACL,W-ML,en
+mixture model,gibbs sampler,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+nearest neighbor search,gibbs sampler,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+prior probability,gibbs sampler,https://en.wikipedia.org/wiki/Prior_probability,https://en.wikipedia.org/wiki/Gibbs_sampling,A->B,ACL,W-ML,en
+Stochastic_gradient_descent,gibbs sampler,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+supervised learning,gibbs sampler,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+unsupervised learning,gibbs sampler,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Gibbs_sampling,None,ACL,W-ML,en
+gradient descent,global optimum,https://en.wikipedia.org/wiki/Gradient_descent,https://en.wikipedia.org/wiki/Maxima_and_minima,A->B,ACL,W-ML,en
+linear algebra,global optimum,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+linear regression,global optimum,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+local minimum,global optimum,https://en.wikipedia.org/wiki/Maxima_and_minima,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+local optima,global optimum,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+logistic regression,global optimum,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+Loss_function,global optimum,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+machine learning,global optimum,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+multi-class classification,global optimum,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+neural network,global optimum,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+partial derivative,global optimum,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+training data set,global optimum,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+Identity_matrix,gradient descent,https://en.wikipedia.org/wiki/Identity_matrix,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+inner product,gradient descent,https://en.wikipedia.org/wiki/Inner_product_space,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+kernel regression,gradient descent,https://en.wikipedia.org/wiki/Kernel_regression,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+latent dirichlet allocation,gradient descent,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+learning curve,gradient descent,https://en.wikipedia.org/wiki/Learning_curve,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+least squares,gradient descent,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+likelihood function,gradient descent,https://en.wikipedia.org/wiki/Likelihood_function,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+linear algebra,gradient descent,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+linear classifier,gradient descent,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+linear model,gradient descent,https://en.wikipedia.org/wiki/Linear_model,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+linear regression,gradient descent,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+local minimum,gradient descent,https://en.wikipedia.org/wiki/Maxima_and_minima,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+local optima,gradient descent,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+logistic regression,gradient descent,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+Loss_function,gradient descent,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+machine learning,gradient descent,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+matrix multiplication,gradient descent,https://en.wikipedia.org/wiki/Matrix_multiplication,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+maximum likelihood,gradient descent,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+mean square error,gradient descent,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+model selection,gradient descent,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+multi-class classification,gradient descent,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+neural network,gradient descent,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+optimization problem,gradient descent,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+partial derivative,gradient descent,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+polynomial regression,gradient descent,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+recommender system,gradient descent,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+sentiment analysis,gradient descent,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+sigmoid function,gradient descent,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+standard deviation,gradient descent,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+Stochastic_gradient_descent,gradient descent,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+supervised learning,gradient descent,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Gradient_descent,A->B,ACL,W-ML,en
+support vector machine,gradient descent,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+test data,gradient descent,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+test data,gradient descent,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+training data set,gradient descent,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Gradient_descent,None,ACL,W-ML,en
+linear classifier,greedy algorithm,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-ML,en
+logistic regression,greedy algorithm,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-ML,en
+machine learning,greedy algorithm,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-ML,en
+test data,greedy algorithm,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Greedy_algorithm,None,ACL,W-ML,en
+mixture model,hierarchical Computer_cluster,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Hierarchical_Computer_cluster,None,ACL,W-ML,en
+least squares,Identity_matrix,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+linear algebra,Identity_matrix,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Identity_matrix,A->B,ACL,W-ML,en
+linear regression,Identity_matrix,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+Loss_function,Identity_matrix,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+machine learning,Identity_matrix,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+matrix multiplication,Identity_matrix,https://en.wikipedia.org/wiki/Matrix_multiplication,https://en.wikipedia.org/wiki/Identity_matrix,A->B,ACL,W-ML,en
+mean square error,Identity_matrix,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Identity_matrix,A->B,ACL,W-ML,en
+random numbers,Identity_matrix,https://en.wikipedia.org/wiki/Random_number,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+random variable,Identity_matrix,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+standard deviation,Identity_matrix,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+test data,Identity_matrix,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+test data,Identity_matrix,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+training data set,Identity_matrix,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Identity_matrix,None,ACL,W-ML,en
+logistic regression,Image_retrieval,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Image_retrieval,None,ACL,W-ML,en
+machine learning,Image_retrieval,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Image_retrieval,A->B,ACL,W-ML,en
+neural network,Image_retrieval,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Image_retrieval,None,ACL,W-ML,en
+training data set,Image_retrieval,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Image_retrieval,None,ACL,W-ML,en
+Kernel_function,inner product,https://en.wikipedia.org/wiki/Positive-definite_kernel,https://en.wikipedia.org/wiki/Inner_product_space,A->B,ACL,W-ML,en
+least squares,inner product,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Inner_product_space,A->B,ACL,W-ML,en
+linear algebra,inner product,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Inner_product_space,A->B,ACL,W-ML,en
+linear classifier,inner product,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+linear regression,inner product,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Inner_product_space,A->B,ACL,W-ML,en
+local optima,inner product,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+logistic regression,inner product,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Inner_product_space,A->B,ACL,W-ML,en
+Loss_function,inner product,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+machine learning,inner product,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+multi-class classification,inner product,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+nearest neighbor search,inner product,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+neural network,inner product,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Inner_product_space,A->B,ACL,W-ML,en
+optimization problem,inner product,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Inner_product_space,A->B,ACL,W-ML,en
+partial derivative,inner product,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+recommender system,inner product,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+support vector machine,inner product,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Inner_product_space,A->B,ACL,W-ML,en
+training data set,inner product,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Inner_product_space,None,ACL,W-ML,en
+linear classifier,Kernel_function,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Positive-definite_kernel,None,ACL,W-ML,en
+local optima,Kernel_function,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Positive-definite_kernel,None,ACL,W-ML,en
+logistic regression,Kernel_function,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Positive-definite_kernel,None,ACL,W-ML,en
+Loss_function,Kernel_function,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Positive-definite_kernel,None,ACL,W-ML,en
+machine learning,Kernel_function,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Positive-definite_kernel,A->B,ACL,W-ML,en
+multi-class classification,Kernel_function,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Positive-definite_kernel,None,ACL,W-ML,en
+neural network,Kernel_function,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Positive-definite_kernel,None,ACL,W-ML,en
+optimization problem,Kernel_function,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Positive-definite_kernel,None,ACL,W-ML,en
+support vector machine,Kernel_function,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Positive-definite_kernel,A->B,ACL,W-ML,en
+training data set,Kernel_function,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Positive-definite_kernel,None,ACL,W-ML,en
+least squares,kernel regression,https://en.wikipedia.org/wiki/Least_squares,https://en.wikipedia.org/wiki/Kernel_regression,None,ACL,W-ML,en
+linear model,kernel regression,https://en.wikipedia.org/wiki/Linear_model,https://en.wikipedia.org/wiki/Kernel_regression,None,ACL,W-ML,en
+linear regression,kernel regression,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Kernel_regression,A->B,ACL,W-ML,en
+Loss_function,kernel regression,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Kernel_regression,None,ACL,W-ML,en
+machine learning,kernel regression,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Kernel_regression,A->B,ACL,W-ML,en
+maximum likelihood,kernel regression,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Kernel_regression,None,ACL,W-ML,en
+mean square error,kernel regression,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Kernel_regression,None,ACL,W-ML,en
+model selection,kernel regression,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Kernel_regression,None,ACL,W-ML,en
+optimization problem,kernel regression,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Kernel_regression,A->B,ACL,W-ML,en
+training data set,kernel regression,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Kernel_regression,A->B,ACL,W-ML,en
+linear algebra,latent dirichlet allocation,https://en.wikipedia.org/wiki/Linear_algebra,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+linear classifier,latent dirichlet allocation,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+linear regression,latent dirichlet allocation,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+logistic regression,latent dirichlet allocation,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+Loss_function,latent dirichlet allocation,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,A->B,ACL,W-ML,en
+machine learning,latent dirichlet allocation,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,A->B,ACL,W-ML,en
+maximum likelihood,latent dirichlet allocation,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+mixture model,latent dirichlet allocation,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+multi-class classification,latent dirichlet allocation,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+nearest neighbor search,latent dirichlet allocation,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+prior probability,latent dirichlet allocation,https://en.wikipedia.org/wiki/Prior_probability,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,A->B,ACL,W-ML,en
+recommender system,latent dirichlet allocation,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+sentiment analysis,latent dirichlet allocation,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+Stochastic_gradient_descent,latent dirichlet allocation,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+supervised learning,latent dirichlet allocation,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+support vector machine,latent dirichlet allocation,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+unsupervised learning,latent dirichlet allocation,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation,None,ACL,W-ML,en
+linear regression,learning curve,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+logistic regression,learning curve,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+Loss_function,learning curve,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+machine learning,learning curve,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Learning_curve,A->B,ACL,W-ML,en
+model selection,learning curve,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+neural network,learning curve,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+recommender system,learning curve,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+sentiment analysis,learning curve,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+Stochastic_gradient_descent,learning curve,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+supervised learning,learning curve,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+test data,learning curve,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Learning_curve,A->B,ACL,W-ML,en
+training data set,learning curve,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Learning_curve,A->B,ACL,W-ML,en
+unsupervised learning,learning curve,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Learning_curve,None,ACL,W-ML,en
+linear regression,least squares,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+Loss_function,least squares,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+machine learning,least squares,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+mean square error,least squares,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Least_squares,A->B,ACL,W-ML,en
+model selection,least squares,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+optimization problem,least squares,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+partial derivative,least squares,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+polynomial regression,least squares,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+recommender system,least squares,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+training data set,least squares,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Least_squares,None,ACL,W-ML,en
+logistic regression,likelihood function,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Likelihood_function,None,ACL,W-ML,en
+machine learning,likelihood function,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Likelihood_function,None,ACL,W-ML,en
+maximum likelihood,likelihood function,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Likelihood_function,A->B,ACL,W-ML,en
+neural network,likelihood function,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Likelihood_function,None,ACL,W-ML,en
+partial derivative,likelihood function,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Likelihood_function,None,ACL,W-ML,en
+training data set,likelihood function,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Likelihood_function,None,ACL,W-ML,en
+linear classifier,linear algebra,https://en.wikipedia.org/wiki/Linear_classifier,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+linear regression,linear algebra,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Linear_algebra,A->B,ACL,W-ML,en
+local optima,linear algebra,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+logistic regression,linear algebra,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Linear_algebra,A->B,ACL,W-ML,en
+Loss_function,linear algebra,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+machine learning,linear algebra,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+matrix multiplication,linear algebra,https://en.wikipedia.org/wiki/Matrix_multiplication,https://en.wikipedia.org/wiki/Linear_algebra,A->B,ACL,W-ML,en
+maximum likelihood,linear algebra,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+multi-class classification,linear algebra,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Linear_algebra,A->B,ACL,W-ML,en
+optimization problem,linear algebra,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+partial derivative,linear algebra,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Linear_algebra,A->B,ACL,W-ML,en
+probability density,linear algebra,https://en.wikipedia.org/wiki/Probability_density_function,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+standard deviation,linear algebra,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+Stochastic_gradient_descent,linear algebra,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Linear_algebra,A->B,ACL,W-ML,en
+supervised learning,linear algebra,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+support vector machine,linear algebra,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Linear_algebra,A->B,ACL,W-ML,en
+symmetric matrix,linear algebra,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Linear_algebra,A->B,ACL,W-ML,en
+test data,linear algebra,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+training data set,linear algebra,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+unsupervised learning,linear algebra,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Linear_algebra,None,ACL,W-ML,en
+linear model,linear classifier,https://en.wikipedia.org/wiki/Linear_model,https://en.wikipedia.org/wiki/Linear_classifier,A->B,ACL,W-ML,en
+linear regression,linear classifier,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+local optima,linear classifier,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+logistic regression,linear classifier,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Linear_classifier,A->B,ACL,W-ML,en
+Loss_function,linear classifier,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+machine learning,linear classifier,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Linear_classifier,A->B,ACL,W-ML,en
+maximum likelihood,linear classifier,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+multi-class classification,linear classifier,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Linear_classifier,A->B,ACL,W-ML,en
+neural network,linear classifier,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Linear_classifier,A->B,ACL,W-ML,en
+optimization problem,linear classifier,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+partial derivative,linear classifier,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+polynomial regression,linear classifier,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+recommender system,linear classifier,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+sentiment analysis,linear classifier,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Linear_classifier,A->B,ACL,W-ML,en
+sigmoid function,linear classifier,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+Stochastic_gradient_descent,linear classifier,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+support vector machine,linear classifier,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Linear_classifier,A->B,ACL,W-ML,en
+training data set,linear classifier,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Linear_classifier,None,ACL,W-ML,en
+linear regression,linear model,https://en.wikipedia.org/wiki/Linear_regression,https://en.wikipedia.org/wiki/Linear_model,A->B,ACL,W-ML,en
+logistic function,linear model,https://en.wikipedia.org/wiki/Logistic_function,https://en.wikipedia.org/wiki/Linear_model,None,ACL,W-ML,en
+logistic regression,linear model,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Linear_model,A->B,ACL,W-ML,en
+Loss_function,linear model,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Linear_model,None,ACL,W-ML,en
+machine learning,linear model,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Linear_model,A->B,ACL,W-ML,en
+maximum likelihood,linear model,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Linear_model,None,ACL,W-ML,en
+mean square error,linear model,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Linear_model,None,ACL,W-ML,en
+model selection,linear model,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Linear_model,None,ACL,W-ML,en
+test data,linear model,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Linear_model,None,ACL,W-ML,en
+training data set,linear model,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Linear_model,None,ACL,W-ML,en
+local minimum,linear regression,https://en.wikipedia.org/wiki/Maxima_and_minima,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+local optima,linear regression,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+logistic function,linear regression,https://en.wikipedia.org/wiki/Logistic_function,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+logistic regression,linear regression,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+Loss_function,linear regression,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+machine learning,linear regression,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+matrix multiplication,linear regression,https://en.wikipedia.org/wiki/Matrix_multiplication,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+maximum likelihood,linear regression,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+mean square error,linear regression,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+model selection,linear regression,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+multi-class classification,linear regression,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+neural network,linear regression,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+optimization problem,linear regression,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+partial derivative,linear regression,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+polynomial regression,linear regression,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+random numbers,linear regression,https://en.wikipedia.org/wiki/Random_number,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+recommender system,linear regression,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+sentiment analysis,linear regression,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+sigmoid function,linear regression,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+Stochastic_gradient_descent,linear regression,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+supervised learning,linear regression,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+support vector machine,linear regression,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+test data,linear regression,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+test data,linear regression,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+training data set,linear regression,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Linear_regression,A->B,ACL,W-ML,en
+unsupervised learning,linear regression,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Linear_regression,None,ACL,W-ML,en
+local optima,local minimum,https://en.wikipedia.org/wiki/Local_optimum,https://en.wikipedia.org/wiki/Maxima_and_minima,A->B,ACL,W-ML,en
+logistic regression,local minimum,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+Loss_function,local minimum,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Maxima_and_minima,A->B,ACL,W-ML,en
+machine learning,local minimum,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+multi-class classification,local minimum,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+neural network,local minimum,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+partial derivative,local minimum,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Maxima_and_minima,A->B,ACL,W-ML,en
+training data set,local minimum,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Maxima_and_minima,None,ACL,W-ML,en
+logistic regression,local optima,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Local_optimum,None,ACL,W-ML,en
+Loss_function,local optima,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Local_optimum,A->B,ACL,W-ML,en
+machine learning,local optima,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Local_optimum,None,ACL,W-ML,en
+multi-class classification,local optima,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Local_optimum,None,ACL,W-ML,en
+neural network,local optima,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Local_optimum,None,ACL,W-ML,en
+optimization problem,local optima,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Local_optimum,None,ACL,W-ML,en
+partial derivative,local optima,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Local_optimum,A->B,ACL,W-ML,en
+supervised learning,local optima,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Local_optimum,None,ACL,W-ML,en
+support vector machine,local optima,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Local_optimum,A->B,ACL,W-ML,en
+training data set,local optima,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Local_optimum,None,ACL,W-ML,en
+logistic regression,logistic function,https://en.wikipedia.org/wiki/Logistic_regression,https://en.wikipedia.org/wiki/Logistic_function,None,ACL,W-ML,en
+Loss_function,logistic function,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Logistic_function,A->B,ACL,W-ML,en
+neural network,logistic function,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Logistic_function,A->B,ACL,W-ML,en
+partial derivative,logistic function,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Logistic_function,None,ACL,W-ML,en
+sigmoid function,logistic function,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Logistic_function,None,ACL,W-ML,en
+training data set,logistic function,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Logistic_function,None,ACL,W-ML,en
+Loss_function,logistic regression,https://en.wikipedia.org/wiki/Loss_function,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+machine learning,logistic regression,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+maximum likelihood,logistic regression,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+model selection,logistic regression,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+multi-class classification,logistic regression,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+neural network,logistic regression,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+optimization problem,logistic regression,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+partial derivative,logistic regression,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+polynomial regression,logistic regression,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+recommender system,logistic regression,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+sentiment analysis,logistic regression,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+sigmoid function,logistic regression,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+Stochastic_gradient_descent,logistic regression,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+supervised learning,logistic regression,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+support vector machine,logistic regression,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+test data,logistic regression,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+test data,logistic regression,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+training data set,logistic regression,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Logistic_regression,A->B,ACL,W-ML,en
+unsupervised learning,logistic regression,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Logistic_regression,None,ACL,W-ML,en
+machine learning,Loss_function,https://en.wikipedia.org/wiki/Machine_learning,https://en.wikipedia.org/wiki/Loss_function,A->B,ACL,W-ML,en
+maximum likelihood,Loss_function,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+mean square error,Loss_function,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+model selection,Loss_function,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+multi-class classification,Loss_function,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+neural network,Loss_function,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Loss_function,A->B,ACL,W-ML,en
+optimization problem,Loss_function,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Loss_function,A->B,ACL,W-ML,en
+partial derivative,Loss_function,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+polynomial regression,Loss_function,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+random variable,Loss_function,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+recommender system,Loss_function,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+sentiment analysis,Loss_function,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+sigmoid function,Loss_function,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+standard deviation,Loss_function,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+Stochastic_gradient_descent,Loss_function,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Loss_function,A->B,ACL,W-ML,en
+supervised learning,Loss_function,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+support vector machine,Loss_function,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Loss_function,A->B,ACL,W-ML,en
+test data,Loss_function,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+test data,Loss_function,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+training data set,Loss_function,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Loss_function,None,ACL,W-ML,en
+matrix multiplication,machine learning,https://en.wikipedia.org/wiki/Matrix_multiplication,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+maximum likelihood,machine learning,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+mean square error,machine learning,https://en.wikipedia.org/wiki/Mean_squared_error,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+mixture model,machine learning,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+model selection,machine learning,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+multi-class classification,machine learning,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+nearest neighbor search,machine learning,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+neural network,machine learning,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+optimization problem,machine learning,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+partial derivative,machine learning,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+pedestrian detection,machine learning,https://en.wikipedia.org/wiki/Pedestrian_detection,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+polynomial regression,machine learning,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+probability density,machine learning,https://en.wikipedia.org/wiki/Probability_density_function,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+random numbers,machine learning,https://en.wikipedia.org/wiki/Random_number,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+random variable,machine learning,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+recommender system,machine learning,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+sentiment analysis,machine learning,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+sigmoid function,machine learning,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+standard deviation,machine learning,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+Stochastic_gradient_descent,machine learning,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Machine_learning,None,ACL,W-ML,en
+supervised learning,machine learning,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+support vector machine,machine learning,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+test data,machine learning,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+test data,machine learning,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+training data set,machine learning,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+unsupervised learning,machine learning,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Machine_learning,A->B,ACL,W-ML,en
+mixture model,maximum likelihood,https://en.wikipedia.org/wiki/Mixture_model,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+model selection,maximum likelihood,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+multi-class classification,maximum likelihood,https://en.wikipedia.org/wiki/Multiclass_classification,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+partial derivative,maximum likelihood,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+probability density,maximum likelihood,https://en.wikipedia.org/wiki/Probability_density_function,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,A->B,ACL,W-ML,en
+random variable,maximum likelihood,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,A->B,ACL,W-ML,en
+recommender system,maximum likelihood,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+sentiment analysis,maximum likelihood,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+standard deviation,maximum likelihood,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+Stochastic_gradient_descent,maximum likelihood,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+test data,maximum likelihood,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+training data set,maximum likelihood,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Maximum_likelihood_estimation,None,ACL,W-ML,en
+model selection,mean square error,https://en.wikipedia.org/wiki/Model_selection,https://en.wikipedia.org/wiki/Mean_squared_error,None,ACL,W-ML,en
+polynomial regression,mean square error,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Mean_squared_error,None,ACL,W-ML,en
+random variable,mean square error,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Mean_squared_error,None,ACL,W-ML,en
+test data,mean square error,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Mean_squared_error,None,ACL,W-ML,en
+test data,mean square error,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Mean_squared_error,None,ACL,W-ML,en
+training data set,mean square error,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Mean_squared_error,None,ACL,W-ML,en
+nearest neighbor search,mixture model,https://en.wikipedia.org/wiki/Nearest_neighbor_search,https://en.wikipedia.org/wiki/Mixture_model,None,ACL,W-ML,en
+prior probability,mixture model,https://en.wikipedia.org/wiki/Prior_probability,https://en.wikipedia.org/wiki/Mixture_model,A->B,ACL,W-ML,en
+random variable,mixture model,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Mixture_model,A->B,ACL,W-ML,en
+standard deviation,mixture model,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Mixture_model,None,ACL,W-ML,en
+supervised learning,mixture model,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Mixture_model,None,ACL,W-ML,en
+symmetric matrix,mixture model,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Mixture_model,None,ACL,W-ML,en
+unsupervised learning,mixture model,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Mixture_model,None,ACL,W-ML,en
+neural network,model selection,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Model_selection,None,ACL,W-ML,en
+polynomial regression,model selection,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Model_selection,None,ACL,W-ML,en
+sigmoid function,model selection,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Model_selection,None,ACL,W-ML,en
+test data,model selection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Model_selection,A->B,ACL,W-ML,en
+test data,model selection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Model_selection,A->B,ACL,W-ML,en
+training data set,model selection,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Model_selection,A->B,ACL,W-ML,en
+neural network,multi-class classification,https://en.wikipedia.org/wiki/Neural_network,https://en.wikipedia.org/wiki/Multiclass_classification,A->B,ACL,W-ML,en
+optimization problem,multi-class classification,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Multiclass_classification,None,ACL,W-ML,en
+partial derivative,multi-class classification,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Multiclass_classification,None,ACL,W-ML,en
+support vector machine,multi-class classification,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Multiclass_classification,None,ACL,W-ML,en
+training data set,multi-class classification,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Multiclass_classification,A->B,ACL,W-ML,en
+supervised learning,nearest neighbor search,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Nearest_neighbor_search,None,ACL,W-ML,en
+unsupervised learning,nearest neighbor search,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Nearest_neighbor_search,A->B,ACL,W-ML,en
+optimization problem,neural network,https://en.wikipedia.org/wiki/Optimization_problem,https://en.wikipedia.org/wiki/Neural_network,A->B,ACL,W-ML,en
+partial derivative,neural network,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Neural_network,A->B,ACL,W-ML,en
+recommender system,neural network,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Neural_network,None,ACL,W-ML,en
+sentiment analysis,neural network,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Neural_network,None,ACL,W-ML,en
+sigmoid function,neural network,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Neural_network,A->B,ACL,W-ML,en
+Stochastic_gradient_descent,neural network,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Neural_network,A->B,ACL,W-ML,en
+supervised learning,neural network,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Neural_network,A->B,ACL,W-ML,en
+support vector machine,neural network,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Neural_network,None,ACL,W-ML,en
+test data,neural network,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Neural_network,A->B,ACL,W-ML,en
+test data,neural network,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Neural_network,A->B,ACL,W-ML,en
+training data set,neural network,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Neural_network,A->B,ACL,W-ML,en
+unsupervised learning,neural network,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Neural_network,None,ACL,W-ML,en
+partial derivative,optimization problem,https://en.wikipedia.org/wiki/Partial_derivative,https://en.wikipedia.org/wiki/Optimization_problem,A->B,ACL,W-ML,en
+recommender system,optimization problem,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Optimization_problem,None,ACL,W-ML,en
+supervised learning,optimization problem,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Optimization_problem,None,ACL,W-ML,en
+support vector machine,optimization problem,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Optimization_problem,A->B,ACL,W-ML,en
+test data,optimization problem,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Optimization_problem,None,ACL,W-ML,en
+training data set,optimization problem,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Optimization_problem,None,ACL,W-ML,en
+polynomial regression,partial derivative,https://en.wikipedia.org/wiki/Polynomial_regression,https://en.wikipedia.org/wiki/Partial_derivative,None,ACL,W-ML,en
+recommender system,partial derivative,https://en.wikipedia.org/wiki/Recommender_system,https://en.wikipedia.org/wiki/Partial_derivative,None,ACL,W-ML,en
+sigmoid function,partial derivative,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Partial_derivative,None,ACL,W-ML,en
+Stochastic_gradient_descent,partial derivative,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Partial_derivative,A->B,ACL,W-ML,en
+training data set,partial derivative,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Partial_derivative,None,ACL,W-ML,en
+supervised learning,pedestrian detection,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Pedestrian_detection,A->B,ACL,W-ML,en
+test data,pedestrian detection,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Pedestrian_detection,A->B,ACL,W-ML,en
+training data set,pedestrian detection,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Pedestrian_detection,A->B,ACL,W-ML,en
+sigmoid function,polynomial regression,https://en.wikipedia.org/wiki/Sigmoid_function,https://en.wikipedia.org/wiki/Polynomial_regression,None,ACL,W-ML,en
+test data,polynomial regression,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Polynomial_regression,A->B,ACL,W-ML,en
+test data,polynomial regression,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Polynomial_regression,A->B,ACL,W-ML,en
+training data set,polynomial regression,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Polynomial_regression,A->B,ACL,W-ML,en
+random variable,prior probability,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Prior_probability,A->B,ACL,W-ML,en
+random variable,probability density,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Probability_density_function,A->B,ACL,W-ML,en
+standard deviation,probability density,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Probability_density_function,None,ACL,W-ML,en
+symmetric matrix,probability density,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Probability_density_function,None,ACL,W-ML,en
+training data set,probability density,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Probability_density_function,None,ACL,W-ML,en
+random variable,random numbers,https://en.wikipedia.org/wiki/Random_variable,https://en.wikipedia.org/wiki/Random_number,A->B,ACL,W-ML,en
+standard deviation,random numbers,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Random_number,A->B,ACL,W-ML,en
+standard deviation,random variable,https://en.wikipedia.org/wiki/Standard_deviation,https://en.wikipedia.org/wiki/Random_variable,A->B,ACL,W-ML,en
+symmetric matrix,random variable,https://en.wikipedia.org/wiki/Symmetric_matrix,https://en.wikipedia.org/wiki/Random_variable,None,ACL,W-ML,en
+training data set,random variable,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Random_variable,None,ACL,W-ML,en
+sentiment analysis,recommender system,https://en.wikipedia.org/wiki/Sentiment_analysis,https://en.wikipedia.org/wiki/Recommender_system,None,ACL,W-ML,en
+Stochastic_gradient_descent,recommender system,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Recommender_system,None,ACL,W-ML,en
+supervised learning,recommender system,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Recommender_system,None,ACL,W-ML,en
+support vector machine,recommender system,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Recommender_system,None,ACL,W-ML,en
+test data,recommender system,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Recommender_system,None,ACL,W-ML,en
+test data,recommender system,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Recommender_system,None,ACL,W-ML,en
+training data set,recommender system,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Recommender_system,None,ACL,W-ML,en
+unsupervised learning,recommender system,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Recommender_system,None,ACL,W-ML,en
+Stochastic_gradient_descent,sentiment analysis,https://en.wikipedia.org/wiki/Stochastic_gradient_descent,https://en.wikipedia.org/wiki/Sentiment_analysis,None,ACL,W-ML,en
+support vector machine,sentiment analysis,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Sentiment_analysis,None,ACL,W-ML,en
+test data,sentiment analysis,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Sentiment_analysis,A->B,ACL,W-ML,en
+test data,sentiment analysis,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Sentiment_analysis,A->B,ACL,W-ML,en
+training data set,sentiment analysis,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Sentiment_analysis,A->B,ACL,W-ML,en
+supervised learning,sigmoid function,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Sigmoid_function,None,ACL,W-ML,en
+training data set,sigmoid function,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Sigmoid_function,None,ACL,W-ML,en
+supervised learning,standard deviation,https://en.wikipedia.org/wiki/Supervised_learning,https://en.wikipedia.org/wiki/Standard_deviation,None,ACL,W-ML,en
+test data,standard deviation,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Standard_deviation,None,ACL,W-ML,en
+training data set,standard deviation,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Standard_deviation,None,ACL,W-ML,en
+training data set,Stochastic_gradient_descent,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Stochastic_gradient_descent,None,ACL,W-ML,en
+support vector machine,supervised learning,https://en.wikipedia.org/wiki/Support-vector_machine,https://en.wikipedia.org/wiki/Supervised_learning,A->B,ACL,W-ML,en
+test data,supervised learning,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Supervised_learning,A->B,ACL,W-ML,en
+test data,supervised learning,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Supervised_learning,A->B,ACL,W-ML,en
+training data set,supervised learning,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Supervised_learning,A->B,ACL,W-ML,en
+unsupervised learning,supervised learning,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Supervised_learning,None,ACL,W-ML,en
+test data,support vector machine,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Support-vector_machine,A->B,ACL,W-ML,en
+test data,support vector machine,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Support-vector_machine,A->B,ACL,W-ML,en
+training data set,support vector machine,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Support-vector_machine,A->B,ACL,W-ML,en
+unsupervised learning,support vector machine,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Support-vector_machine,None,ACL,W-ML,en
+training data set,symmetric matrix,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Symmetric_matrix,None,ACL,W-ML,en
+test data,test data,https://en.wikipedia.org/wiki/Test_data,https://en.wikipedia.org/wiki/Test_data,A->B,ACL,W-ML,en
+training data set,test data,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Test_data,None,ACL,W-ML,en
+unsupervised learning,test data,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Test_data,None,ACL,W-ML,en
+training data set,test data,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",https://en.wikipedia.org/wiki/Test_data,None,ACL,W-ML,en
+unsupervised learning,test data,https://en.wikipedia.org/wiki/Unsupervised_learning,https://en.wikipedia.org/wiki/Test_data,None,ACL,W-ML,en
+unsupervised learning,training data set,https://en.wikipedia.org/wiki/Unsupervised_learning,"https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",None,ACL,W-ML,en
